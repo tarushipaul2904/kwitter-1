@@ -1,0 +1,19 @@
+body{
+    background-image: url(backdrop.jpg);
+}
+.header
+{
+	color: white;font-family: 'Cursive';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+}
+.header img
+{
+	width: 80px;margin-left: -15px;
+}
+label, h3
+{
+    color: white;
+}
+.logo
+{
+	width: 80px;margin-top: 30px;border-radius: 40px;
+}
